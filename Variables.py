@@ -10,7 +10,7 @@ id(x)
 
 # Ejercicio de poner datos personales
 
-nombre = "Camilo Ernesto Puche Gonzalez"
+nombre = "Camilo Puche"
 telefono = 3147045483
 correo = "camilopuche73@gmail.com"
 

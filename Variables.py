@@ -13,7 +13,7 @@ id(x)
 nombre = "Camilo Puche"
 telefono = 3147045483
 correo = "camilopuche73@gmail.com"
-
+cedula = 1003049870
 print(nombre)
 print(telefono)
 print(correo)
